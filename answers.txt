@@ -1,0 +1,7 @@
+A.If you're navigating a Linux terminal and need to quickly retrieve a previously used command, the Reverse-i-search feature can help ,as it will locate the most recent command matching those characters.
+
+B.You can execute 'ls -a' or 'ls --all' to accomplish this.
+
+C.My comfort zone extends gracefully to Linux-based operating systems like Ubuntu, CentOS, and many more.
+
+D.I have experience using AWS and Vercel to deploy web applications.
